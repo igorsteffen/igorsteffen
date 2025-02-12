@@ -7,8 +7,13 @@
 <h2 align="left">Portfolio</h2>
 
 ###
-
-<a href="https://www.igorsteffen.com" target="_blank"><p align="left">www.igorsteffen.com</p></a>
+<div align="left">
+  <a href="https://www.igorsteffen.com" target="_blank">
+    <p>
+      www.igorsteffen.com
+    </p>
+  </a>
+</div> 
 
 ###
 
