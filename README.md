@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">- IT Programmer-Analyst in training<br>- Transitioning from Mechanical Engineering to Tech<br>- Skilled in C#, Java, Python, JavaScript, PHP<br>- Familiar with databases: Oracle, SQL Server, MongoDB</p>
+<p align="left">- IT Programmer-Analyst in training<br>- Transitioning from Mechanical Engineering to Tech<br>- Skilled in C#, ASP.NET Core, JavaScript, HTML, CSS, Bootstrap, Tailwind, Framer Motion, Java, Python, PHP, Docker<br>- Familiar with databases: Oracle, SQL Server, MongoDB</p>
+
+<h2 align="left">Portfolio</h2>
+
+###
+
+<a href="www.igorsteffen.com"><p align="left">www.igorsteffen.com</p></a>
 
 ###
 
